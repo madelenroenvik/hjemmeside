@@ -1,0 +1,40 @@
+body {
+  background-color: #012;
+  font-family:  serif;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: tomato
+}
+
+ul {
+  color: tomato;
+  text-align: center;
+}
+
+a {
+  color: tomato;
+  text-align: center;
+}
+
+h2 {
+  color: #034;
+  text-align: center;
+}
+
+h6 {
+  color: tomato;
+  text-align: center;
+}
+img {
+  width: 200px;
+  border-radius: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+}
+
+body
